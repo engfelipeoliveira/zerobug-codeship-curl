@@ -1,2 +1,1 @@
 # zerobug-codeship-curl
-d
